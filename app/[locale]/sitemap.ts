@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 import { routing } from "@/i18n/routing";
 
-const baseUrl = "https://humanflow.io";
+const baseUrl = "https://www.rewritekit.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return routing.locales.flatMap((locale) => [
