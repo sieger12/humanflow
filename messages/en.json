@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "title": "HumanFlow – AI Humanizer for Korean & English",
+    "description": "Rewrite AI-generated text into natural, smooth, human-sounding writing. Free AI humanizer for blog posts, emails, essays and more."
+  },
+  "hero": {
+    "badge": "Free Writing Tool · No Signup",
+    "h1": "Paste text. Get a better version.",
+    "h1_v2": "Bad writing fixed in seconds.",
+    "h1_v3": "Your text has patterns. Fix them.",
+    "desc": "Reduce repetitive patterns, improve sentence flow, and get 3 rewritten versions — in seconds. No account required.",
+    "trust": ["Free", "No signup", "Results in seconds", "Korean · English · Japanese · Spanish"]
+  },
+  "form": {
+    "modeLabel": "Rewrite style",
+    "inputTitle": "Input Text",
+    "loadExample": "Load Example",
+    "placeholder": "Paste text here to rewrite...",
+    "charCount": "{count} / {limit}",
+    "submit": "Rewrite & Improve →",
+    "submitting": "Rewriting...",
+    "resultTitle": "Humanized Result",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "emptyTitle": "Your improved text appears here",
+    "emptyDesc": "Paste text and click Rewrite & Improve",
+    "bestLabel": "Best",
+    "regenerate": "Regenerate",
+    "errorEmpty": "Please enter some text.",
+    "errorFailed": "Something went wrong. Please try again."
+  },
+  "modes": {
+    "natural":  { "label": "Natural",       "sub": "Balanced flow",    "desc": "Natural writing style" },
+    "clean":    { "label": "Clean Rewrite", "sub": "Concise & clear",  "desc": "Tighter, cleaner structure" },
+    "readable": { "label": "Readable",      "sub": "Easy to read",     "desc": "Better rhythm & flow" }
+  },
+  "seo": {
+    "h2Features": "Improve Your Writing — Reduce Repetitive Patterns",
+    "featuresDesc": "HumanFlow restructures text to reduce predictable patterns, improve readability, and give writing a more natural flow.",
+    "features": [
+      { "title": "Reduce repetition", "desc": "Identifies overused transitions and sentence starters that make writing feel formulaic." },
+      { "title": "Improve structure", "desc": "Restructures sentences to vary length and break up uniform patterns — without changing meaning." },
+      { "title": "3 style options", "desc": "Natural, Clean Rewrite, and Readable — pick the style that fits your document." }
+    ],
+    "h2How": "How to use HumanFlow",
+    "steps": [
+      "Paste your text into the input field on the left.",
+      "Select a rewrite style: Natural, Clean Rewrite, or Readable.",
+      "Click \"Rewrite & Improve\" and review 3 style variants on the right.",
+      "Copy the version you like best and use it in your document or post."
+    ],
+    "h2Faq": "Frequently Asked Questions",
+    "faq": [
+      { "q": "What does HumanFlow do?", "a": "HumanFlow rewrites text to reduce repetitive sentence patterns, improve readability, and create more natural flow — without changing the original meaning." },
+      { "q": "Does it work for Korean?", "a": "Yes. HumanFlow handles Korean writing specifically, improving particle use, sentence endings, and paragraph rhythm." },
+      { "q": "Is it free?", "a": "Yes, completely free. No account needed. Paste, click, and get results." },
+      { "q": "Will my original meaning be changed?", "a": "No. The rewriter preserves your original meaning and only adjusts structure, phrasing, and flow." }
+    ]
+  },
+  "home": {
+    "detectorTitle": "AI Detector",
+    "detectorDesc": "Check if your text will be flagged as AI-generated. See exactly which sentences look suspicious.",
+    "humanizerTitle": "AI Humanizer",
+    "humanizerDesc": "Rewrite AI-generated text to break detection patterns. Get 3 style variants instantly.",
+    "tryNow": "Try now"
+  },
+  "detector": {
+    "badge": "Writing Pattern Check · Free · No Signup",
+    "h1": "Check Your Writing Patterns",
+    "desc": "Paste text to see if it has repetitive patterns, predictable structure, or flow issues — and get suggestions to improve it.",
+    "inputTitle": "Paste Text to Check",
+    "loadExample": "Load Example",
+    "placeholder": "Paste your text here to analyze writing patterns...",
+    "submit": "Analyze Writing →",
+    "submitting": "Analyzing...",
+    "scoreTitle": "Pattern Score",
+    "patternsTitle": "Repetitive patterns found",
+    "suggestionsTitle": "How to improve",
+    "ctaLabel": "Improve this text",
+    "chipLow": "Natural variation",
+    "chipMedium": "Some patterns",
+    "chipHigh": "Heavy patterns",
+    "emptyTitle": "Analysis appears here",
+    "emptyDesc": "Paste text and click Analyze",
+    "errorEmpty": "Please enter some text.",
+    "errorFailed": "Analysis failed. Please try again."
+  },
+  "levels": {
+    "label": "Human Level",
+    "basic": "Basic",
+    "basicDesc": "Light cleanup",
+    "natural": "Natural",
+    "naturalDesc": "Full rewrite",
+    "veryHuman": "Very Human",
+    "veryHumanDesc": "Max humanness"
+  },
+  "footer": {
+    "copy": "© {year} HumanFlow. AI Humanizer for Korean & English.",
+    "links": {
+      "about": "About",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "contact": "Contact"
+    }
+  }
+}

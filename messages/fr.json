@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "HumanFlow – Humaniseur de Texte IA en Français & Anglais",
+    "description": "Transformez le texte généré par IA en écriture naturelle et fluide. Outil gratuit pour blogs, emails, dissertations et plus encore."
+  },
+  "hero": {
+    "badge": "Outil d'écriture gratuit · Sans inscription",
+    "h1": "Collez le texte. Obtenez une meilleure version.",
+    "desc": "Réduisez les schémas répétitifs, améliorez la fluidité et obtenez 3 versions réécrites en quelques secondes.",
+    "trust": ["Gratuit", "Sans inscription", "Résultats immédiats", "Français · Anglais · Coréen"]
+  },
+  "form": {
+    "modeLabel": "Style de réécriture",
+    "inputTitle": "Texte d'entrée",
+    "loadExample": "Charger un exemple",
+    "placeholder": "Collez ici le texte généré par IA...",
+    "charCount": "{count} / {limit}",
+    "submit": "Réécrire et améliorer →",
+    "submitting": "Réécriture en cours...",
+    "resultTitle": "Résultat humanisé",
+    "copy": "Copier",
+    "copied": "Copié !",
+    "emptyTitle": "Les résultats apparaîtront ici",
+    "emptyDesc": "Collez du texte et cliquez sur Humaniser",
+    "bestLabel": "Meilleur",
+    "regenerate": "Régénérer",
+    "errorEmpty": "Veuillez saisir du texte.",
+    "errorFailed": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "modes": {
+    "natural":  { "label": "Naturel",       "sub": "Flux équilibré",     "desc": "Style d'écriture naturel" },
+    "clean":    { "label": "Réécriture",    "sub": "Concis et clair",    "desc": "Structure plus épurée" },
+    "readable": { "label": "Lisible",       "sub": "Facile à lire",      "desc": "Meilleur rythme et fluidité" }
+  },
+  "seo": {
+    "h2Features": "Rendez l'écriture IA plus naturelle",
+    "featuresDesc": "HumanFlow réécrit le texte robotique généré par IA en écriture plus claire, plus fluide et plus naturelle en français et en anglais.",
+    "features": [
+      { "title": "Ton naturel", "desc": "Supprimez les phrases répétitives et les schémas IA qui trahissent le texte généré par machine." },
+      { "title": "Français + anglais", "desc": "Optimisé pour le rythme naturel du français et de l'anglais." },
+      { "title": "6 modes de réécriture", "desc": "Blog, email, professionnel, amical, court et naturel — choisissez celui qui convient à votre objectif." }
+    ],
+    "h2How": "Comment utiliser HumanFlow",
+    "steps": [
+      "Collez votre texte généré par IA dans la zone de saisie à gauche.",
+      "Sélectionnez un mode de réécriture : Naturel, Blog, Email, Professionnel, Amical ou Court.",
+      "Cliquez sur \"Humaniser le texte\" et obtenez le résultat réécrit à droite.",
+      "Copiez le résultat et utilisez-le dans votre document, article ou email."
+    ],
+    "h2Faq": "Questions fréquentes",
+    "faq": [
+      { "q": "Que fait HumanFlow ?", "a": "HumanFlow réécrit le texte généré par IA pour qu'il sonne plus naturel et humain. Il ajuste le rythme des phrases, supprime les schémas répétitifs et adapte le ton selon le mode sélectionné." },
+      { "q": "Fonctionne-t-il pour le texte en français ?", "a": "Oui. HumanFlow est optimisé pour le français et l'anglais, améliorant la fluidité et le rythme naturel du texte." },
+      { "q": "Est-ce gratuit ?", "a": "Oui, HumanFlow est entièrement gratuit. Collez votre texte, choisissez un mode et obtenez le résultat instantanément." },
+      { "q": "La signification de mon texte changera-t-elle ?", "a": "Non. HumanFlow préserve le sens original tout en ajustant uniquement le ton, le rythme et l'expression pour sonner plus naturellement." }
+    ]
+  },
+  "home": {
+    "detectorTitle": "Détecteur IA",
+    "detectorDesc": "Vérifiez si votre texte sera détecté comme généré par IA. Voyez exactement quelles phrases semblent suspectes.",
+    "humanizerTitle": "Humaniseur IA",
+    "humanizerDesc": "Réécrivez du texte IA pour briser les schémas de détection. Obtenez 3 variantes de style instantanément.",
+    "tryNow": "Essayer maintenant"
+  },
+  "detector": {
+    "badge": "Analyse des schémas · Gratuit · Sans inscription",
+    "h1": "Analysez vos schémas d'écriture",
+    "desc": "Collez du texte pour identifier les schémas répétitifs, la structure prévisible ou les problèmes de fluidité — avec des suggestions concrètes.",
+    "inputTitle": "Collez le texte à analyser",
+    "loadExample": "Charger un exemple",
+    "placeholder": "Collez votre texte ici pour analyser les schémas d'écriture...",
+    "submit": "Analyser l'écriture →",
+    "submitting": "Analyse en cours...",
+    "scoreTitle": "Score de schémas",
+    "patternsTitle": "Schémas répétitifs trouvés",
+    "suggestionsTitle": "Comment améliorer",
+    "ctaLabel": "Améliorer ce texte",
+    "chipLow": "Variation naturelle",
+    "chipMedium": "Quelques schémas",
+    "chipHigh": "Beaucoup de schémas",
+    "emptyTitle": "L'analyse apparaîtra ici",
+    "emptyDesc": "Collez du texte et cliquez sur Analyser",
+    "errorEmpty": "Veuillez saisir du texte.",
+    "errorFailed": "L'analyse a échoué. Veuillez réessayer."
+  },
+  "levels": {
+    "label": "Niveau humain",
+    "basic": "Basique",
+    "basicDesc": "Légère retouche",
+    "natural": "Naturel",
+    "naturalDesc": "Réécriture complète",
+    "veryHuman": "Très humain",
+    "veryHumanDesc": "Niveau maximum"
+  },
+  "footer": {
+    "copy": "© {year} HumanFlow. Humaniseur IA pour français et anglais.",
+    "links": {
+      "about": "À propos",
+      "privacy": "Confidentialité",
+      "terms": "Conditions",
+      "contact": "Contact"
+    }
+  }
+}

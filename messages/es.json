@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "HumanFlow – Humanizador de Texto IA en Español e Inglés",
+    "description": "Convierte texto generado por IA en escritura natural y fluida. Humanizador de IA gratuito para blogs, emails, ensayos y más."
+  },
+  "hero": {
+    "badge": "Herramienta de escritura gratuita · Sin registro",
+    "h1": "Pega el texto. Obtén una versión mejor.",
+    "desc": "Reduce patrones repetitivos, mejora la fluidez y obtén 3 versiones reescritas en segundos. Sin cuenta requerida.",
+    "trust": ["Gratis", "Sin registro", "Resultados en segundos", "Español · Inglés · Coreano"]
+  },
+  "form": {
+    "modeLabel": "Estilo de reescritura",
+    "inputTitle": "Texto de entrada",
+    "loadExample": "Cargar ejemplo",
+    "placeholder": "Pega aquí el texto generado por IA...",
+    "charCount": "{count} / {limit}",
+    "submit": "Reescribir y mejorar →",
+    "submitting": "Reescribiendo...",
+    "resultTitle": "Resultado humanizado",
+    "copy": "Copiar",
+    "copied": "¡Copiado!",
+    "emptyTitle": "Los resultados aparecerán aquí",
+    "emptyDesc": "Pega texto y haz clic en Humanizar",
+    "bestLabel": "Mejor",
+    "regenerate": "Regenerar",
+    "errorEmpty": "Por favor introduce algún texto.",
+    "errorFailed": "Algo salió mal. Por favor inténtalo de nuevo."
+  },
+  "modes": {
+    "natural":  { "label": "Natural",        "sub": "Flujo equilibrado",  "desc": "Estilo de escritura natural" },
+    "clean":    { "label": "Reescritura",    "sub": "Conciso y claro",    "desc": "Estructura más limpia" },
+    "readable": { "label": "Legible",        "sub": "Fácil de leer",      "desc": "Mejor ritmo y flujo" }
+  },
+  "seo": {
+    "h2Features": "Haz que la escritura de IA suene más natural",
+    "featuresDesc": "HumanFlow reescribe texto robótico generado por IA en escritura más clara, fluida y natural en español e inglés.",
+    "features": [
+      { "title": "Tono natural", "desc": "Elimina frases repetitivas y patrones de IA que delatan el texto generado por máquina." },
+      { "title": "Español + inglés", "desc": "Optimizado para el ritmo natural del español y el inglés." },
+      { "title": "6 modos de reescritura", "desc": "Blog, email, profesional, amigable, corto y natural — elige el que se adapte a tu propósito." }
+    ],
+    "h2How": "Cómo usar HumanFlow",
+    "steps": [
+      "Pega tu texto generado por IA en el cuadro de entrada de la izquierda.",
+      "Selecciona un modo de reescritura: Natural, Blog, Email, Profesional, Amigable o Corto.",
+      "Haz clic en \"Humanizar texto\" y obtén el resultado reescrito a la derecha.",
+      "Copia el resultado y úsalo en tu documento, publicación o email."
+    ],
+    "h2Faq": "Preguntas frecuentes",
+    "faq": [
+      { "q": "¿Qué hace HumanFlow?", "a": "HumanFlow reescribe texto generado por IA para que suene más natural y humano. Ajusta el ritmo de las oraciones, elimina patrones repetitivos y adapta el tono según el modo seleccionado." },
+      { "q": "¿Funciona para texto en español?", "a": "Sí. HumanFlow está optimizado para español e inglés, mejorando la fluidez y el ritmo natural del texto." },
+      { "q": "¿Es gratis?", "a": "Sí, HumanFlow es completamente gratuito. Pega tu texto, elige un modo y obtén el resultado al instante." },
+      { "q": "¿Cambiará el significado de mi texto?", "a": "No. HumanFlow preserva el significado original mientras solo ajusta el tono, el ritmo y la expresión para que suene más natural." }
+    ]
+  },
+  "home": {
+    "detectorTitle": "Detector de IA",
+    "detectorDesc": "Comprueba si tu texto será detectado como generado por IA. Ve exactamente qué frases parecen sospechosas.",
+    "humanizerTitle": "Humanizador de IA",
+    "humanizerDesc": "Reescribe texto de IA para romper los patrones de detección. Obtén 3 variantes de estilo al instante.",
+    "tryNow": "Probar ahora"
+  },
+  "detector": {
+    "badge": "Análisis de patrones · Gratis · Sin registro",
+    "h1": "Analiza tus patrones de escritura",
+    "desc": "Pega texto para ver si tiene patrones repetitivos, estructura predecible o problemas de fluidez — y obtén sugerencias para mejorarlo.",
+    "inputTitle": "Pega el texto a analizar",
+    "loadExample": "Cargar ejemplo",
+    "placeholder": "Pega tu texto aquí para analizar patrones de escritura...",
+    "submit": "Analizar escritura →",
+    "submitting": "Analizando...",
+    "scoreTitle": "Puntuación de patrones",
+    "patternsTitle": "Patrones repetitivos encontrados",
+    "suggestionsTitle": "Cómo mejorar",
+    "ctaLabel": "Mejorar este texto",
+    "chipLow": "Variación natural",
+    "chipMedium": "Algunos patrones",
+    "chipHigh": "Muchos patrones",
+    "emptyTitle": "El análisis aparecerá aquí",
+    "emptyDesc": "Pega texto y haz clic en Analizar",
+    "errorEmpty": "Por favor introduce algún texto.",
+    "errorFailed": "El análisis falló. Por favor inténtalo de nuevo."
+  },
+  "levels": {
+    "label": "Nivel humano",
+    "basic": "Básico",
+    "basicDesc": "Ajuste ligero",
+    "natural": "Natural",
+    "naturalDesc": "Reescritura completa",
+    "veryHuman": "Muy humano",
+    "veryHumanDesc": "Máximo nivel"
+  },
+  "footer": {
+    "copy": "© {year} HumanFlow. Humanizador de IA para español e inglés.",
+    "links": {
+      "about": "Acerca de",
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "contact": "Contacto"
+    }
+  }
+}
