@@ -33,19 +33,19 @@
     "readable": { "label": "Lesbar",         "sub": "Leicht lesbar",      "desc": "Besserer Rhythmus" }
   },
   "seo": {
-    "h2Features": "KI-Texte natürlicher klingen lassen",
-    "featuresDesc": "HumanFlow schreibt roboterhaft klingende KI-Texte in klarere, flüssigere und natürlichere deutsche und englische Texte um.",
+    "h2Features": "Schreibqualität verbessern — Wiederholungsmuster reduzieren",
+    "featuresDesc": "HumanFlow strukturiert Text um, um vorhersehbare Muster zu reduzieren, die Lesbarkeit zu verbessern und einen natürlicheren Fluss zu erzeugen.",
     "features": [
-      { "title": "Natürlicher Ton", "desc": "Entferne wiederholende Formulierungen und KI-typische Muster, die maschinell generierten Text verraten." },
-      { "title": "Deutsch + Englisch", "desc": "Optimiert für den natürlichen Sprachfluss des Deutschen und Englischen." },
-      { "title": "6 Umschreibmodi", "desc": "Blog, E-Mail, professionell, freundlich, kurz und natürlich — wähle den passenden Modus." }
+      { "title": "Wiederholungen reduzieren", "desc": "Erkennt überbenutzte Übergänge und repetitive Satzanfänge, die das Schreiben formulahaft wirken lassen." },
+      { "title": "Struktur verbessern", "desc": "Strukturiert Sätze um, um Länge zu variieren und gleichförmige Muster zu durchbrechen — ohne die Bedeutung zu ändern." },
+      { "title": "3 Schreibstile", "desc": "Natürlich, Bereinigt, Lesbar — wähle den Stil, der zu deinem Dokument passt." }
     ],
     "h2How": "So verwendest du HumanFlow",
     "steps": [
-      "Füge deinen KI-generierten Text in das Eingabefeld auf der linken Seite ein.",
-      "Wähle einen Umschreibmodus: Natürlich, Blog, E-Mail, Professionell, Freundlich oder Kurz.",
-      "Klicke auf \"Text humanisieren\" und erhalte das umgeschriebene Ergebnis rechts.",
-      "Kopiere das Ergebnis und verwende es in deinem Dokument, Beitrag oder deiner E-Mail."
+      "Füge deinen Text in das Eingabefeld auf der linken Seite ein.",
+      "Wähle einen Stil: Natürlich, Bereinigt oder Lesbar.",
+      "Klicke auf \"Umschreiben & verbessern\" — du erhältst 3 Varianten in Sekunden.",
+      "Kopiere die bevorzugte Version und verwende sie direkt."
     ],
     "h2Faq": "Häufig gestellte Fragen",
     "faq": [

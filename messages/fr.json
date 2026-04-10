@@ -33,19 +33,19 @@
     "readable": { "label": "Lisible",       "sub": "Facile à lire",      "desc": "Meilleur rythme et fluidité" }
   },
   "seo": {
-    "h2Features": "Rendez l'écriture IA plus naturelle",
-    "featuresDesc": "HumanFlow réécrit le texte robotique généré par IA en écriture plus claire, plus fluide et plus naturelle en français et en anglais.",
+    "h2Features": "Améliorez votre écriture — Réduisez les schémas répétitifs",
+    "featuresDesc": "HumanFlow restructure le texte pour réduire les schémas prévisibles, améliorer la lisibilité et créer un flux plus naturel.",
     "features": [
-      { "title": "Ton naturel", "desc": "Supprimez les phrases répétitives et les schémas IA qui trahissent le texte généré par machine." },
-      { "title": "Français + anglais", "desc": "Optimisé pour le rythme naturel du français et de l'anglais." },
-      { "title": "6 modes de réécriture", "desc": "Blog, email, professionnel, amical, court et naturel — choisissez celui qui convient à votre objectif." }
+      { "title": "Réduire les répétitions", "desc": "Détecte les transitions surutilisées et les débuts de phrases répétitifs qui rendent l'écriture formulaïque." },
+      { "title": "Améliorer la structure", "desc": "Restructure les phrases pour varier leur longueur et briser les schémas uniformes — sans changer le sens." },
+      { "title": "3 styles", "desc": "Naturel, Réécriture épurée, Lisible — choisissez le style adapté à votre document." }
     ],
     "h2How": "Comment utiliser HumanFlow",
     "steps": [
-      "Collez votre texte généré par IA dans la zone de saisie à gauche.",
-      "Sélectionnez un mode de réécriture : Naturel, Blog, Email, Professionnel, Amical ou Court.",
-      "Cliquez sur \"Humaniser le texte\" et obtenez le résultat réécrit à droite.",
-      "Copiez le résultat et utilisez-le dans votre document, article ou email."
+      "Collez votre texte dans la zone de saisie à gauche.",
+      "Sélectionnez un style : Naturel, Réécriture épurée, ou Lisible.",
+      "Cliquez sur \"Réécrire et améliorer\" — vous obtenez 3 variantes en quelques secondes.",
+      "Copiez la version que vous préférez et utilisez-la directement."
     ],
     "h2Faq": "Questions fréquentes",
     "faq": [

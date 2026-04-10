@@ -33,19 +33,19 @@
     "readable": { "label": "Legible",        "sub": "Fácil de leer",      "desc": "Mejor ritmo y flujo" }
   },
   "seo": {
-    "h2Features": "Haz que la escritura de IA suene más natural",
-    "featuresDesc": "HumanFlow reescribe texto robótico generado por IA en escritura más clara, fluida y natural en español e inglés.",
+    "h2Features": "Mejora tu escritura — Reduce los patrones repetitivos",
+    "featuresDesc": "HumanFlow reestructura el texto para reducir los patrones predecibles, mejorar la legibilidad y crear un flujo más natural.",
     "features": [
-      { "title": "Tono natural", "desc": "Elimina frases repetitivas y patrones de IA que delatan el texto generado por máquina." },
-      { "title": "Español + inglés", "desc": "Optimizado para el ritmo natural del español y el inglés." },
-      { "title": "6 modos de reescritura", "desc": "Blog, email, profesional, amigable, corto y natural — elige el que se adapte a tu propósito." }
+      { "title": "Reducir repeticiones", "desc": "Detecta las transiciones sobreutilizadas y los inicios de oración repetitivos que hacen que la escritura parezca formulaica." },
+      { "title": "Mejorar estructura", "desc": "Reestructura las oraciones para variar su longitud y romper los patrones uniformes — sin cambiar el significado." },
+      { "title": "3 estilos", "desc": "Natural, Reescritura limpia, Legible — elige el estilo que mejor se adapte a tu documento." }
     ],
     "h2How": "Cómo usar HumanFlow",
     "steps": [
-      "Pega tu texto generado por IA en el cuadro de entrada de la izquierda.",
-      "Selecciona un modo de reescritura: Natural, Blog, Email, Profesional, Amigable o Corto.",
-      "Haz clic en \"Humanizar texto\" y obtén el resultado reescrito a la derecha.",
-      "Copia el resultado y úsalo en tu documento, publicación o email."
+      "Pega tu texto en el cuadro de entrada de la izquierda.",
+      "Selecciona un estilo: Natural, Reescritura limpia, o Legible.",
+      "Haz clic en \"Reescribir y mejorar\" — obtendrás 3 variantes en segundos.",
+      "Copia la versión que prefieras y úsala directamente."
     ],
     "h2Faq": "Preguntas frecuentes",
     "faq": [
