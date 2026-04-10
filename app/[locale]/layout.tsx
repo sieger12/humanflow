@@ -10,7 +10,11 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
-  return { title: t("title"), description: t("description") };
+
+  return {
+    title: t("title"),
+    description: t("description"),
+  };
 }
 
 export function generateStaticParams() {
@@ -32,6 +36,12 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
+      <head>
+        <meta
+          name="google-site-verification"
+          content="9qmLIJgjHSW2ymiPlBIB0vdR5uF4t5v5dnJ12OPLr80"
+        />
+      </head>
       <body className="bg-gradient-to-b from-white via-zinc-50 to-zinc-100 min-h-screen">
         <NextIntlClientProvider messages={messages}>
           {children}
