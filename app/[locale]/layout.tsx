@@ -39,7 +39,7 @@ export default async function LocaleLayout({
       <head>
         <meta
           name="google-site-verification"
-          content="9qmLIJgjHSW2ymiPlBIB0vdR5uF4t5v5dnJ12OPLr80"
+          content="TVL686jfuMDsni28P6qsO5pcfOOXFgYxavmKVBebuyE"
         />
       </head>
       <body className="bg-gradient-to-b from-white via-zinc-50 to-zinc-100 min-h-screen">
